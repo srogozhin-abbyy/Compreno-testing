@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UITesting", "UITesting\UITe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITesting", "APITesting\APITesting.csproj", "{7732EF46-7201-4B31-81FB-5E52ECF47383}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComprenoClient", "ComprenoClient\ComprenoClient.csproj", "{8D6372E9-C0BA-4FCA-A24A-575FD7A10661}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComprenoHelper", "ComprenoClient\ComprenoHelper.csproj", "{8D6372E9-C0BA-4FCA-A24A-575FD7A10661}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO.Swagger", "IO.Swagger\IO.Swagger.csproj", "{4DEEE16B-90D4-424B-94C7-3F7339EB4053}"
 EndProject
