@@ -1,13 +1,9 @@
-﻿using System;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Abbyy.ComprenoTesting.ComprenoClient.Models
+﻿namespace ComprenoTesting.ComprenoHelper.Models
 {
 	public class Credentials
 	{
 		public string id { get; set; }
-		public User user { get; set; }
+		//public User user { get; set; }
+		public IO.Swagger.Model.User user { get; set; }
 	}
 }
