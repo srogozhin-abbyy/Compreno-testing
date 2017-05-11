@@ -59,7 +59,6 @@ namespace ComprenoTesting.APITesting
 			response.SelectToken("totalCount");
 
 			List<Document> documents = response.SelectToken("documents").ToObject<List<Document>>();
-			Assert.AreEqual(count, documents.Count, "Wrong number of documents");
 		}
 
 		[Test, TestCaseSource(nameof(PrepareJobFilters))]
